@@ -1,5 +1,5 @@
 # CustomToast
-A custom toast for people
+A custom toast for everyone.
 
 use `new CustomToast("your message", "message_type")` to create your toast.
 
